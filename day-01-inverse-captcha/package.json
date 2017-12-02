@@ -1,0 +1,14 @@
+{
+  "name": "day-01-inverse-captcha",
+  "version": "1.0.0",
+  "description": "Day 1: Inverse Captcha",
+  "main": "index.js",
+  "author": "Mario Tacke <tacke.mario@gmail.com>",
+  "license": "ISC",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
