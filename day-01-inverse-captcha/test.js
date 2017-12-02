@@ -3,7 +3,7 @@ const assert = require('assert');
 const inverseCaptcha = require('./inverse-captcha');
 const inverseCaptcha2 = require('./inverse-captcha2');
 
-describe('Inverse Captcha', () => {
+describe('Day 1: Inverse Captcha', () => {
   it('should properly calculate 1122', () => {
     assert.equal(3, inverseCaptcha('1122'));
   });

@@ -13,6 +13,8 @@ For example:
 - `1234` produces `0` because no digit matches the next.
 - `91212129` produces `9` because the only digit that matches the next one is the last digit, `9`.
 
+What is the solution to your captcha?
+
 ## Part Two
 
 Now, instead of considering the next digit, it wants you to consider the digit halfway around the circular list. That is, if your list contains `10` items, only include a digit in your sum if the digit `10/2 = 5` steps forward matches it. Fortunately, your list has an even number of elements.
@@ -24,6 +26,8 @@ For example:
 - `123425` produces `4`, because both `2`s match each other, but no other digit has a match.
 - `123123` produces `12`.
 - `12131415` produces `4`.
+
+What is the solution to your new captcha?
 
 ## References
 - http://adventofcode.com/2017/day/1
