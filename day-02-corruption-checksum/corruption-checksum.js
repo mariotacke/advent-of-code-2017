@@ -5,7 +5,7 @@ const corruptionChecksum = (input) => {
       .split(/[\s\t/]+/)
       .map((y) => parseInt(y))
     )
-    .reduce((accumulator, currentValue, currentIndex, array) => {
+    .reduce((accumulator, currentValue) => {
       const high = Math.max.apply(null, currentValue);
       const low = Math.min.apply(null, currentValue);
       
