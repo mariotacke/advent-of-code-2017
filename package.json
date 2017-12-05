@@ -1,12 +1,12 @@
 {
-  "name": "Advent of Code 2017",
+  "name": "advent-of-code-2017",
   "version": "1.0.0",
   "description": "Advent of Code 2017",
   "main": "index.js",
   "author": "Mario Tacke <tacke.mario@gmail.com>",
   "license": "ISC",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha day-*/**/test.js"
   },
   "devDependencies": {
     "mocha": "^4.0.1"
