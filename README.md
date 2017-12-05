@@ -11,6 +11,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each ~~d
 - [Day 1: Inverse Captcha](day-01-inverse-captcha/)
 - [Day 2: Corruption Checksum](day-02-corruption-checksum/)
 - [Day 3: Spiral Memory](day-03-spiral-memory/)
+- [Day 4: High-Entropy Passphrases](day-04-high-entropy-passphrases/)
 
 ## Running Tests
 
