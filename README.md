@@ -14,6 +14,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each ~~d
 - [Day 4: High-Entropy Passphrases](day-04-high-entropy-passphrases/)
 - [Day 5: A Maze of Twisty Trampolines, All Alike](day-05-a-maze-of-twisty-trampolines/)
 - [Day 6: Memory Reallocation](day-06-memory-reallocation/)
+- [Day 7: Recursive Circus](day-07-recursive-circus/)
 
 ## Running Tests
 
