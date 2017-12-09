@@ -15,10 +15,11 @@ Collect stars by solving puzzles. Two puzzles will be made available on each ~~d
 - [Day 5: A Maze of Twisty Trampolines, All Alike](day-05-a-maze-of-twisty-trampolines/)
 - [Day 6: Memory Reallocation](day-06-memory-reallocation/)
 - [Day 7: Recursive Circus](day-07-recursive-circus/)
+- [Day 8: I Heard You Like Registers](day-08-i-heard-you-like-registers/)
 
 ## Running Tests
 
-Each day contains its own set of tests. To run them type `npm test`. 
+Each day contains its own set of tests. To run them type `npm test`.
 
 ## Visit
 - http://adventofcode.com
