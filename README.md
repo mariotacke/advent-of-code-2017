@@ -16,6 +16,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each ~~d
 - [Day 6: Memory Reallocation](day-06-memory-reallocation/)
 - [Day 7: Recursive Circus](day-07-recursive-circus/)
 - [Day 8: I Heard You Like Registers](day-08-i-heard-you-like-registers/)
+- [Day 9: Stream Processing](day-09-stream-processing/)
 
 ## Running Tests
 
