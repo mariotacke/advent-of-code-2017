@@ -20,7 +20,7 @@ describe('Day 1: Inverse Captcha', () => {
     assert.equal(9, inverseCaptcha('91212129'));
   });
   
-  describe('Part 2', () => {
+  describe('Part Two', () => {
     it('should properly calculate 1212', () => {
       assert.equal(6, inverseCaptcha2('1212'));
     });
