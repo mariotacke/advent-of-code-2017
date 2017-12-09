@@ -8,7 +8,7 @@ const highEntropyPassphrases = (input) => {
     )
     .reduce((accumulator, currentValue, currentIndex, array) => {
       const uniqueWords = [...new Set(currentValue)];
-      
+
       return accumulator + (uniqueWords.length === currentValue.length ? 1 : 0);
     }, 0);
 };

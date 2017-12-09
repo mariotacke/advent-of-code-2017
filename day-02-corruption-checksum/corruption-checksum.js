@@ -8,7 +8,7 @@ const corruptionChecksum = (input) => {
     .reduce((accumulator, currentValue) => {
       const high = Math.max.apply(null, currentValue);
       const low = Math.min.apply(null, currentValue);
-      
+
       return accumulator + Math.abs(high - low);
     }, 0);
 };

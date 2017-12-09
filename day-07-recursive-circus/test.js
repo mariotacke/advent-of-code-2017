@@ -19,10 +19,10 @@ describe('Day 7: Recursive Circus', () => {
        ugml (68) -> gyxo, ebii, jptl
        gyxo (61)
        cntj (57)`;
-    
+
     assert.equal(recursiveCircus(instructions), 'tknk');
   });
-  
+
   describe('Part Two', () => {
     it('should properly determine proper weight to balance', () => {
       const instructions =
@@ -39,7 +39,7 @@ describe('Day 7: Recursive Circus', () => {
          ugml (68) -> gyxo, ebii, jptl
          gyxo (61)
          cntj (57)`;
-      
+
       assert.equal(recursiveCircus2(instructions), 60);
     });
   });

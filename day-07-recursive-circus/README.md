@@ -28,21 +28,21 @@ cntj (57)
 
 ```
                 gyxo
-              /     
+              /
          ugml - ebii
-       /      \     
+       /      \
       |         jptl
-      |        
+      |
       |         pbga
      /        /
 tknk --- padx - havc
      \        \
       |         goyq
-      |             
+      |
       |         ktlj
-       \      /     
+       \      /
          fwft - cntj
-              \     
+              \
                 xhth
 ```
 
