@@ -1,7 +1,6 @@
 const streamProcessing = (stream) => {
   let score = 0;
   let lastScore = 0;
-  let isGroup = false;
   let isGarbage = false;
   let ignoreNext = false;
 
@@ -24,12 +23,10 @@ const streamProcessing = (stream) => {
     }
 
     if (stream[i] === '{' && !isGarbage) {
-      isGroup = true;
       score += lastScore++ + 1;
     }
 
     if (stream[i] === '}' && !isGarbage) {
-      isGroup = false;
       lastScore -= 1;
     }
   }

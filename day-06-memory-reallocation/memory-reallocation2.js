@@ -18,7 +18,7 @@ const memoryReallocation = (input) => {
       patterns[snapshot] = {
         lastSeen: 0,
         alreadySeen: false,
-      }
+      };
     }
 
     banks[currentIndex] = 0;

@@ -6,7 +6,7 @@ const highEntropyPassphrases = (input) => {
       .split(/[\s\t/]+/)
       .map((w) => w.split('').sort().join())
     )
-    .reduce((accumulator, currentValue, currentIndex, array) => {
+    .reduce((accumulator, currentValue) => {
       const uniqueWords = [...new Set(currentValue)];
 
       return accumulator + (uniqueWords.length === currentValue.length ? 1 : 0);
