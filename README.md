@@ -19,6 +19,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each ~~d
 - [Day 9: Stream Processing](day-09-stream-processing/)
 - [Day 10: Knot Hash](day-10-knot-hash/)
 - [Day 11: Hex Ed](day-11-hex-ed/)
+- [Day 12: Digital Plumber](day-12-digital-plumber/)
 
 ## Running Tests
 
