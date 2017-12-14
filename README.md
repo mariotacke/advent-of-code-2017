@@ -18,6 +18,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each ~~d
 - [Day 8: I Heard You Like Registers](day-08-i-heard-you-like-registers/)
 - [Day 9: Stream Processing](day-09-stream-processing/)
 - [Day 10: Knot Hash](day-10-knot-hash/)
+- [Day 11: Hex Ed](day-11-hex-ed/)
 
 ## Running Tests
 

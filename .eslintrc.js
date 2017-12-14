@@ -9,7 +9,7 @@ module.exports = {
     "sourceType": "module"
   },
   "rules": {
-    "indent": ["error", 2],
+    "indent": ["error", 2, { "SwitchCase": 1 }],
     "quotes": [2, "single"],
     "semi": 2
   }
