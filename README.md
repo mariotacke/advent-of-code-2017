@@ -22,6 +22,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each ~~d
 - [Day 12: Digital Plumber](day-12-digital-plumber/)
 - [Day 13: Packet Scanners](day-13-packet-scanners/)
 - [Day 14: Disk Defragmentation](day-14-disk-defragmentation/)
+- [Day 15: Dueling Generators](day-15-dueling-generators/)
 
 ## Running Tests
 
