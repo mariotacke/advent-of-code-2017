@@ -24,6 +24,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each ~~d
 - [Day 14: Disk Defragmentation](day-14-disk-defragmentation/)
 - [Day 15: Dueling Generators](day-15-dueling-generators/)
 - [Day 16: Permutation Promenade](day-16-permutation-promenade/)
+- [Day 17: Spinlock](day-17-spinlock/)
 
 ## Running Tests
 
