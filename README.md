@@ -25,6 +25,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each ~~d
 - [Day 15: Dueling Generators](day-15-dueling-generators/)
 - [Day 16: Permutation Promenade](day-16-permutation-promenade/)
 - [Day 17: Spinlock](day-17-spinlock/)
+- [Day 18: Duet](day-18-duet/)
 
 ## Running Tests
 
