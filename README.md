@@ -27,6 +27,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each ~~d
 - [Day 17: Spinlock](day-17-spinlock/)
 - [Day 18: Duet](day-18-duet/)
 - [Day 19: A Series of Tubes](day-19-a-series-of-tubes/)
+- [Day 20: Particle Swarm](day-20-particle-swarm/)
 - [Day 25: The Halting Problem](day-25-halting-problem/)
 
 ## Running Tests
