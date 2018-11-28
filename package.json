@@ -4,13 +4,13 @@
   "description": "Advent of Code 2017",
   "main": "index.js",
   "author": "Mario Tacke <tacke.mario@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "scripts": {
     "test": "mocha day-*/**/test.js",
     "lint": "eslint ."
   },
   "devDependencies": {
-    "eslint": "^4.13.0",
-    "mocha": "^4.0.1"
+    "eslint": "^5.9.0",
+    "mocha": "^5.2.0"
   }
 }
