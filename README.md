@@ -30,6 +30,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each ~~d
 - [Day 19: A Series of Tubes](day-19-a-series-of-tubes/)
 - [Day 20: Particle Swarm](day-20-particle-swarm/)
 - [Day 21: Fractal Art](day-21-fractal-art/)
+- [Day 22: Sporifica Virus](day-22-sporifica-virus/)
 - [Day 25: The Halting Problem](day-25-halting-problem/)
 
 ## Running Tests
