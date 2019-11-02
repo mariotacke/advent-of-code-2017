@@ -3,11 +3,15 @@
   "version": "1.0.0",
   "description": "Advent of Code 2017",
   "main": "index.js",
-  "author": "Mario Tacke <tacke.mario@gmail.com>",
+  "author": "Mario Tacke <tacke.mario@gmail.com> (https://www.mariotacke.io)",
   "license": "MIT",
   "scripts": {
     "test": "mocha day-*/**/test.js",
     "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mariotacke/advent-of-code-2017.git"
   },
   "devDependencies": {
     "eslint": "^6.6.0",
