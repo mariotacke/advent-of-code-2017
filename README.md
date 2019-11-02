@@ -32,6 +32,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each ~~d
 - [Day 21: Fractal Art](day-21-fractal-art/)
 - [Day 22: Sporifica Virus](day-22-sporifica-virus/)
 - [Day 23: Coprocessor Conflagration](day-23-coprocessor-conflagration/)
+- [Day 24: Electromagnetic Moat](day-24-electromagnetic-moat/)
 - [Day 25: The Halting Problem](day-25-halting-problem/)
 
 ## Running Tests
