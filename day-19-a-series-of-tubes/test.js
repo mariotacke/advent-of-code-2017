@@ -20,7 +20,7 @@ describe('Day 19: A Series of Tubes', () => {
     assert.equal(path, 'ABCDEF');
   });
 
-  describe('Part 2', () => {
+  describe('Part Two', () => {
     it('should calculate tube path', () => {
       const instructions =
         `
