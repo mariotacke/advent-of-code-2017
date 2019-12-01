@@ -1,5 +1,6 @@
 # Advent of Code 2017 - My Solutions
 [![Build Status](https://github.com/mariotacke/advent-of-code-2017/workflows/build/badge.svg)](https://github.com/mariotacke/advent-of-code-2017/actions)
+[![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mariotacke/advent-of-code-2017/master/.github/badges/completion.json)](https://github.com/mariotacke/advent-of-code-2017)
 [![Dependency Status](https://img.shields.io/david/mariotacke/advent-of-code-2017.svg)](https://david-dm.org/mariotacke/advent-of-code-2017)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/mariotacke/advent-of-code-2017/master/LICENSE)
 
@@ -42,8 +43,8 @@ Collect stars by solving puzzles. Two puzzles will be made available on each ~~d
 Each day contains its own set of tests. To run them type `npm test`.
 
 ## Previous Years
-- [2016](https://github.com/mariotacke/advent-of-code-2016)
-- [2015](https://github.com/mariotacke/advent-of-code-2015)
+- [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mariotacke/advent-of-code-2016/master/.github/badges/completion.json&label=2016)](https://github.com/mariotacke/advent-of-code-2016)
+- [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mariotacke/advent-of-code-2015/master/.github/badges/completion.json&label=2015)](https://github.com/mariotacke/advent-of-code-2015)
 
 ## Visit
 - http://adventofcode.com/2017
